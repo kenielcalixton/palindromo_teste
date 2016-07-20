@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	text-align: center;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#titulo {
+	background-color: #000;
+	color: #FFF;
+}
+#observacao {
+	font-size: 10px;
+}
+
+
+#geral {
+	margin: auto;
+	width: 870px;
+	position: relative;
+}
